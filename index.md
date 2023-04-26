@@ -27,7 +27,9 @@
   
   [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yaiza612/Big_data/main)
   
-- [Dog Food Day](http://example.com/)
+- **Dog Food Day:**
+Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones. In this competition, you’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim. While Kaymo ™ has used machine learning for the past 10 years, they’re looking to the CAIIS machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers. The solution should be in Spark. 
+([Github](https://github.com/yaiza612/Big_data/tree/main/Trees/CAIIS.ipynb))
 - **Hack data:** 
 A technology start-up in California has recently been hacked, and their forensic engineers have grabbed valuable information, including information like session time, locations, wpm typing speed, etc, to identify how many hackers did it. The goal is to use SparkML to do this. 
 ([Github](https://github.com/yaiza612/Big_data/tree/main/Clustering))
@@ -37,7 +39,7 @@ Hyunday Heavy Industries need help to build a predictive model for some ships. T
 ([Github](https://github.com/yaiza612/Big_data/tree/main/LinearRegression))
 - **Predicting Dog Food Spoiling:**
 Purina Dog Food Company is trying to understand why some batches of their dog food are spoiling much quicker than intended. The goal is to use SparkML to do this. 
-([Github](https://github.com/yaiza612/Big_data/tree/main/Trees))
+([Github](https://github.com/yaiza612/Big_data/tree/main/Trees/Consulting_proyect_predicting_dog_food_spoiling.ipynb))
 - **Xray Image Classification:**
 Final project consisting in the classification of pneumonia from X-Ray images using Scalable Deep Learning with Spark. 
 ([Github](https://github.com/yaiza612/scalable_classification_x_ray_data))
@@ -55,7 +57,8 @@ My repositories with helpful scripts and programs to analyze omic data.
 ---
 ### Statistics
 
-- [Climate Change]
+- **Climate Change:** 
+An analysis of different datasets to get better insights about the climate change. ([Github]())
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
