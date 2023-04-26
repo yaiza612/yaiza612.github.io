@@ -19,6 +19,9 @@ With the code I implemented in this repository is possible to study the dynamics
 [Brain simulation with game of life](https://github.com/yaiza612/Life-Yaiza-s-Brain)
 This is another version of the game of life, where I represent excitatory and inhibitory neuros instead of just cells. The rules are of course personalize with this purpose: 0 represents inactivated neurons, 1 represents activated neurons; in other array, 0 represents inhibitory neurons, and 1 represents excitatory neurons. Moreover to take in account the calcium levels, when there are way too many activated neurons, there is a restart to recover the level of calcium of our "brain". With my version of the game of life, it is possible to study the different patterns shaped when changing the initial conditions: amount of excitatory and inhibitory neurons.
 
+---
+[The syncronization of fireflies](pdf/assigment_lesson_5.pdf)
+Characterization of the behavior of a cellular automata that simulate the synchronization of fireflies.
 
 ---
 
