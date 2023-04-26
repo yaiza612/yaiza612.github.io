@@ -31,11 +31,11 @@
 - **Hack data:** 
 A technology start-up in California has recently been hacked, and their forensic engineers have grabbed valuable information, including information like session time, locations, wpm typing speed, etc, to identify how many hackers did it. The goal is to use SparkML to do this. 
 ([Github](https://github.com/yaiza612/Big_data/tree/main/Clustering))
-  
 - [Predicting Churn Risk](http://example.com/)
-- [Predicting Crew Members](http://example.com/)
+- **Predicting Crew Members:**
+Hyunday Heavy Industries need help to build a predictive model for some ships. They want to stimate how many crew members a ship will require. The goal is to use SparkML to do this.
+([Github](https://github.com/yaiza612/Big_data/tree/main/LinearRegression))
 - [Predicting Dog Food Spoiling](http://example.com/)
-- [WalMart Stock Exercise]
 - **Xray Image Classification:**
   Final project consisting in the classification of pneumonia from X-Ray images using Scalable Deep Learning with Spark. 
   ([Github](https://github.com/yaiza612/scalable_classification_x_ray_data))
