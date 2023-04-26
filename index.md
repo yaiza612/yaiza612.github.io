@@ -8,7 +8,9 @@
 
 
 ---
-[ODEs](/pdf/sample_presentation.pdf)
+[Nonlinear dynamical equations](https://github.com/yaiza612/Modelization)
+With the code I implemented in this repository is possible to study the dynamics of the different function maps (*logistic, tent, cubic, sine, exponential and quotient*), nonlinear dynamical equations that can be use as examples of chaotic behaviour. As well, it is implemented the code needed for represent the bifurcation diagram, lyapunov exponent and the cobweb plots.
+<center><img src="images/bifurcation_map.png"/></center>
 
 
 ---
