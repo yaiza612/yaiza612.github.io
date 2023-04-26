@@ -1,5 +1,5 @@
 title: Yaiza Arnáiz Alcácer # your name (or website title) here
-logo: "https://github.com/yaiza612/yaiza612.github.io/blob/main/images/62614099.jpg" # your photo (or logo) here
+logo: "/images/62614099.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
