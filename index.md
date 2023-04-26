@@ -37,9 +37,9 @@ A technology start-up in California has recently been hacked, and their forensic
 
 
 ---
-### Bioinformatic analysis (Analysis of Omic data)
+### Bioinformatic analysis 
 
-My repositories with helpful scripts and programs to analyze genomic data.
+My repositories with helpful scripts and programs to analyze omic data.
 
 - [Transcriptomics and Single Cell Genomics](https://github.com/yaiza612/Transcriptomics_and_single_cell)
 - [Genomic analysis](https://github.com/yaiza612/Genomics_analysis_pipeline)
