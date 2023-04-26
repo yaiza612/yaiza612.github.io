@@ -33,7 +33,6 @@ Inaccuracies in car insurance company’s claim predictions raise the cost of in
 - **Hack data:** 
 A technology start-up in California has recently been hacked, and their forensic engineers have grabbed valuable information, including information like session time, locations, wpm typing speed, etc, to identify how many hackers did it. The goal is to use SparkML to do this. 
 ([Github](https://github.com/yaiza612/Big_data/tree/main/Clustering))
-- [Predicting Churn Risk](http://example.com/)
 - **Predicting Crew Members:**
 Hyunday Heavy Industries need help to build a predictive model for some ships. They want to stimate how many crew members a ship will require. The goal is to use SparkML to do this.
 ([Github](https://github.com/yaiza612/Big_data/tree/main/LinearRegression))
@@ -58,7 +57,7 @@ My repositories with helpful scripts and programs to analyze omic data.
 ### Statistics
 
 - **Climate Change:** 
-An analysis of different datasets to get better insights about the climate change. ([Github]())
+An analysis of different datasets to get better insights about the climate change. ([Github](https://github.com/yaiza612/Climate_change))
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
