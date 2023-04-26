@@ -4,7 +4,9 @@
 
 ### Mathematical modelization 
 
-[Kuramoto oscillators](/sample_page)
+[Game of trust with synthetic community of cells](https://github.com/yaiza612/syncells_game_trust)
+![Model_scheme](https://user-images.githubusercontent.com/62614099/150428970-bf17a4b1-db3a-4108-8489-32478c4766ed.png)
+With this simulation is possible to see study the behavior altruistic or egoistic of different cells playing the [game of trust](https://ncase.me/trust/). The code of the simulation is based in the game of life.
 
 
 ---
@@ -14,7 +16,8 @@ With the code I implemented in this repository is possible to study the dynamics
 
 
 ---
-[Brain simulation with game of life](http://example.com/)
+[Brain simulation with game of life](https://github.com/yaiza612/Life-Yaiza-s-Brain)
+This is another version of the game of life, where I represent excitatory and inhibitory neuros instead of just cells. The rules are of course personalize with this purpose: 0 represents inactivated neurons, 1 represents activated neurons; in other array, 0 represents inhibitory neurons, and 1 represents excitatory neurons. Moreover to take in account the calcium levels, when there are way too many activated neurons, there is a restart to recover the level of calcium of our "brain". With my version of the game of life, it is possible to study the different patterns shaped when changing the initial conditions: amount of excitatory and inhibitory neurons.
 
 
 ---
