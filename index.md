@@ -19,7 +19,9 @@
 
 ### Machine learning
 
-- [Drug Lead Discovery with Machine Learning]
+- **Drug Lead Discovery with Machine Learning**
+In this project I created an automated pipeline to lead discovery based in ligan based screening. Concretely, my goal is demonstrate that it is posible retrieve good candidate for **inhibit KIT** (==overexpressed in acute leukemia==) using artificial inteligence. A lot of different scientist have tried to find a good candidate to inhibit KIT, sadly without success. Nevertheless, this approach (machine learning) was not use yet to retrieve inhibitors against KIT.
+
 - [Exploring CNNs]
 
   #### Big data 
