@@ -21,9 +21,10 @@
 
 - **Drug Lead Discovery with Machine Learning**
 In this project I created an automated pipeline to lead discovery based in ligan based screening. Concretely, my goal is demonstrate that it is posible retrieve good candidate for **inhibit KIT** (<mark>overexpressed in acute leukemia</mark>) using artificial inteligence. A lot of different scientist have tried to find a good candidate to inhibit KIT, sadly without success. Nevertheless, this approach (machine learning) was not use yet to retrieve inhibitors against KIT. I tried different methods: **small neural network with keras, logistic regression, random forest, SVM, multilayer perceptron, and the code from Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors. Huy Ngoc Pham et al., 2019 to also implement a neural network with attention.** To finish with the project I chose the prediction of the best model and made **molecular docking** and an **ADMET screening** to  select the best candidates. 
-([Github](https://github.com/yaiza612/Ligand_based_screening)
+([Github](https://github.com/yaiza612/Ligand_based_screening))
 
-- [Exploring CNNs]
+- **Exploring CNN neural networks**
+Humans are good at recognizing symbols but what about chimeras? By showing the datasets of 6 elements grouped pairwise, Legenyel showed humans are worse at finding chimeras than normal normal symbols. To improve human accuracy Lengenyel added haptic stimuli: breaking appart the images. This improved the recognition of the chimeras in humans. The question I made myself after knew about the Legenyel's experiments is, **how does this work on CNNs networks?** This repository contains the code of **three neural networks**: naive network (only trained with squares, triangles and circles), random network (trained with figures and random pixels) and chimaera network (trained with figures and chimaeras, e.g. triangle mixed with square). The best accuracy was achieved by the chimaera network, something expected, but also tell us something interestings, CNNs as humans have problems to recognize chimaeras they didn't see before. 
 
   #### Big data 
   My solutions to the assignments of the lectures in Big Data by Universidad Politécnica de Madrid (UPM), Master of Computational Biology.
