@@ -35,10 +35,12 @@ A technology start-up in California has recently been hacked, and their forensic
 - **Predicting Crew Members:**
 Hyunday Heavy Industries need help to build a predictive model for some ships. They want to stimate how many crew members a ship will require. The goal is to use SparkML to do this.
 ([Github](https://github.com/yaiza612/Big_data/tree/main/LinearRegression))
-- [Predicting Dog Food Spoiling](http://example.com/)
+- **Predicting Dog Food Spoiling:**
+Purina Dog Food Company is trying to understand why some batches of their dog food are spoiling much quicker than intended. The goal is to use SparkML to do this. 
+([Github](https://github.com/yaiza612/Big_data/tree/main/Trees))
 - **Xray Image Classification:**
-  Final project consisting in the classification of pneumonia from X-Ray images using Scalable Deep Learning with Spark. 
-  ([Github](https://github.com/yaiza612/scalable_classification_x_ray_data))
+Final project consisting in the classification of pneumonia from X-Ray images using Scalable Deep Learning with Spark. 
+([Github](https://github.com/yaiza612/scalable_classification_x_ray_data))
 
 
 ---
