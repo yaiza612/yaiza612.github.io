@@ -24,6 +24,11 @@ This is another version of the game of life, where I represent excitatory and in
 Characterization of the behavior of a cellular automata that simulate the synchronization of fireflies.
 
 ---
+### Deep Learning
+---
+[Supervised project Paris Saclay](pdf/definitive_poster_portrait.pdf)
+
+---
 
 ### Machine learning
 
