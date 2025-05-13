@@ -27,6 +27,7 @@ Characterization of the behavior of a cellular automata that simulate the synchr
 ### Deep Learning
 ---
 [Supervised project Paris Saclay](pdf/definitive_poster_portrait.pdf) Supervised project developed in NeuroSpin during the Master Computational Neuroscience and Neuroengineering
+[Congress Junior Paris Saclay](pdf/definitive_poster_portrait_junior_congress.pdf) Presentation of my supervised project on the Congress Junior of Paris Saclay.
 
 ---
 
